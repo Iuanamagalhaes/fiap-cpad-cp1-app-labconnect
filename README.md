@@ -80,10 +80,9 @@ npx expo start
 
 ### Vídeo do App em Funcionamento
 
-
----
-
-### Prints das Telas
+<p align="center">
+  <img src="assets/VideoDemonstrativo.gif" alt="demonstracao" width="300"/>
+</p>
 
 ---
 
